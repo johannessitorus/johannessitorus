@@ -41,19 +41,33 @@ You can explore my publicly available work on GitHub:
 
 ### GitHub Statistics
 
+<!--
+Stats provider: https://github.com/stats-organization/github-stats-extended
+Jika kartu statistik tidak tampil, coba ganti domain github-stats-extended.vercel.app
+menjadi stats.esing.dev (lihat dokumentasi resmi provider).
+Layanan SVG publik dapat mengalami limit atau gangguan sewaktu-waktu.
+-->
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johannessitorus&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=johannessitorus&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johannessitorus&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=johannessitorus&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
 ### GitHub Trophies
 
+<!--
+Trophy mirror: https://github-profile-trophy-liard-delta.vercel.app
+Alternatif mirror komunitas: https://trophy.ryglcloud.net
+Jika tidak tampil, ganti domain pada URL gambar di bawah dengan mirror alternatif.
+Mirror publik tidak menjamin uptime 100%.
+-->
+
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=johannessitorus&theme=onedark&no-frame=true&no-bg=true&column=4)
+![GitHub Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=johannessitorus&theme=onedark&no-frame=true&no-bg=true&column=4)
 
 </div>
 
