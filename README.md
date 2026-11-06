@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Johannes Christian Pratama Sitorus
@@ -9,7 +8,7 @@ D3 Information Technology | Institute of Technology Del
 
 Exploring software development, data, artificial intelligence, and emerging technologies.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-FAFAFA?style=for-the-badge&labelColor=242424&logo=vercel&logoColor=white)](https://johannes-portfolio-ten.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-FAFAFA?style=for-the-badge&labelColor=242424&logo=vercel&logoColor=white)](https://johannessitorus.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FAFAFA?style=for-the-badge&labelColor=242424&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johannes-christian-pratama-sitorus-861986310/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-FAFAFA?style=for-the-badge&labelColor=242424&logo=instagram&logoColor=white)](https://www.instagram.com/xhcrstj/)
 
@@ -93,7 +92,7 @@ A multi-component café application featuring mobile ordering, table reservation
 
 **Tech Stack:** Flutter, Dart, React, Laravel, PHP, Go, Docker Compose.
 
-[View Repository](https://github.com/johannessitorus/proyek_akhir_II) | [Explore Portfolio](https://johannes-portfolio-ten.vercel.app/projects/cafe-management)
+[View Repository](https://github.com/johannessitorus/proyek_akhir_II) | [Explore Portfolio](https://johannessitorus.vercel.app/projects/cafe-management)
 
 ### Student Organization Management
 
@@ -101,7 +100,7 @@ A mobile-based student organization management application supporting organizati
 
 **Tech Stack:** Flutter, Dart, Laravel, PHP.
 
-[View Repository](https://github.com/johannessitorus/UMKM) | [Explore Portfolio](https://johannes-portfolio-ten.vercel.app/projects/student-organization-management)
+[View Repository](https://github.com/johannessitorus/UMKM) | [Explore Portfolio](https://johannessitorus.vercel.app/projects/student-organization-management)
 
 ### SIPA — Academic Project Management
 
@@ -109,7 +108,7 @@ A web-based academic project management system for title submissions, supervisio
 
 **Tech Stack:** Laravel, PHP, Blade.
 
-[View Repository](https://github.com/johannessitorus/PA-1-SIPA) | [Explore Portfolio](https://johannes-portfolio-ten.vercel.app/projects/sipa-academic-management)
+[View Repository](https://github.com/johannessitorus/PA-1-SIPA) | [Explore Portfolio](https://johannessitorus.vercel.app/projects/sipa-academic-management)
 
 > Note: Some project repositories are private. Project descriptions and screenshots are available on my portfolio website.
 
@@ -131,7 +130,7 @@ A web-based academic project management system for title submissions, supervisio
 | MySkill | Frond-End Development Introduction |
 | MySkill | Internet Introduction |
 
-[View All Certificates](https://johannes-portfolio-ten.vercel.app/certifications)
+[View All Certificates](https://johannessitorus.vercel.app/certifications)
 
 ---
 
@@ -153,6 +152,6 @@ A web-based academic project management system for title submissions, supervisio
 
 Discover my projects, certifications, and technical journey.
 
-**[johannes-portfolio-ten.vercel.app](https://johannes-portfolio-ten.vercel.app/)**
+**[johannessitorus.vercel.app](https://johannessitorus.vercel.app/)**
 
 </div>
